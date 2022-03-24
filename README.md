@@ -2,3 +2,4 @@
 sunny
 rainy 
 cloudy
+snowy
